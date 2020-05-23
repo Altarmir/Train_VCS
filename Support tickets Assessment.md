@@ -9,6 +9,7 @@ character encoding.
 Having trouble getting an answer? That's okay! Walk us through your research technique,
 what you've tried, and where you're getting stuck so we can see your thought process
 instead.
+
 Good luck!
 
 # Ticket #1: Rejected pull request from fork
