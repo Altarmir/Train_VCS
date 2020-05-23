@@ -10,19 +10,25 @@ Having trouble getting an answer? That's okay! Walk us through your research tec
 what you've tried, and where you're getting stuck so we can see your thought process
 instead.
 Good luck!
-Ticket #1: Rejected pull request from fork
+
+# Ticket #1: Rejected pull request from fork
 
 To start, I have to say I LOVE GITHUB. You guys rock. I was at your 4th birthday party,
 thanks for the cupcake and booze!
+
 Anyway, here's my problem. I sent a pull request to technoweenie, and he rejected it because
 my master branch is out of sync with his master. What can I do to fix this?
+
 Help me supportocat, you're my only hope!
+
 /.Steve
 Hint: You'll want to address their question, and you could add an explanation of topic
 branches as a better workflow.
-Ticket #1 response:
+
+*Ticket #1 response:*SS
 replace this with your response
-Ticket #2: Syncing internal server and GitHub?
+
+# Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
 and I work on a local copy of the repository. For workflow purposes, how do I sync my
 repository to GitHub and the internal Git server?
