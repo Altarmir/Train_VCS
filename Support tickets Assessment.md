@@ -1,14 +1,17 @@
 # Support tickets 
 Please read the tickets here, and reply by removing replace this with your response,
 replacing it with your response.
+
 Please make sure you don't change anything else in this file. Just add your responses to the
 proper sections. Also, please make sure your editor is saving the file using the UTF-8
 character encoding.
+
 Having trouble getting an answer? That's okay! Walk us through your research technique,
 what you've tried, and where you're getting stuck so we can see your thought process
 instead.
 Good luck!
 Ticket #1: Rejected pull request from fork
+
 To start, I have to say I LOVE GITHUB. You guys rock. I was at your 4th birthday party,
 thanks for the cupcake and booze!
 Anyway, here's my problem. I sent a pull request to technoweenie, and he rejected it because
