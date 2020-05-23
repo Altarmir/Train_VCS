@@ -73,21 +73,29 @@ replace this with your answer
 
 replace this with your answer
 
-What's an impressionable experience you've had with customer
-service/support, and why?
+**What's an impressionable experience you've had with customer service/support, and why?**
+
 replace this with your answer
-Tell us about a time where you helped someone.
+
+**Tell us about a time where you helped someone.**
+
 replace this with your answer
-What appeals to you about GitHub, as a company you'd potentially be
-working for?
+
+**What appeals to you about GitHub, as a company you'd potentially be working for?**
+
 replace this with your answer
-How would you describe what GitHub does to a non-technical person?
+
+**How would you describe what GitHub does to a non-technical person?**
+
 replace this with your answer
-What motivates you to work in support?
+
+**What motivates you to work in support?**
+
 replace this with your answer
+
 Thanks for taking the time and effort to tell us more about yourself. We look forward to
 reading your responses.
-Final step
+# Final step
 Make sure you save this file. And that your editor is saving it using the UTF-8 character
 encoding. Go back to the email you received from us, and upload this file to the unique link
 you will find at the bottom of the email.
