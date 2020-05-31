@@ -31,7 +31,7 @@ branches as a better workflow.
 
 Hello /.Steve,
 
-I hope we will see you at our next year's celebration?
+I hope we will see you at our next year's celebration.
 
 To resolve this;
 fetch all commits from upstream repository
@@ -44,17 +44,28 @@ Merge the changes from upstream/master into your local master branch.
 `$ git merge upstream/master`
 For more information see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
 
+Regards, Xavier.
+
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
 and I work on a local copy of the repository. For workflow purposes, how do I sync my
 repository to GitHub and the internal Git server?
 Thanks,
 vmg
+
 Hint: One common option is Git remotes. There are others!
 
 **Ticket #2 response:**
 
-replace this with your response
+Hello Vmg,
+
+Since you use github for collaboration and your internal Git server for deployment.
+
+I would suggest you add the repo by using the `$ git remote` like `$ git remote add internal URL`
+
+we can manully push these different repo.
+
+For more information see [Article](https://help.github.com/en/github/using-git/adding-a-remote)
 
 # Ticket #3: Unhappy about forking
 
@@ -73,8 +84,12 @@ You've checked the account in our admin view, he only has one personal repositor
 on help.github.com.
 
 **Ticket #3 response:**
+ Hello Jamestk,
 
-replace this with your response
+By adding a collaborator on a private repository, owner grant the collaboratr write access to these repos.
+Collaborators can't have read-only access to personal repos.
+
+See[Article](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
 
 # Love to know more about yourself
 We'd also love if you could share more about yourself so the team can get to know you
@@ -82,34 +97,34 @@ better! If you could fill the following out that would be great:
 
 **Name?**
 
-replace this with your answer
+Xavier Ihee
 
 **Location?**
 
-replace this with your answer
+Lagos State, Nigeria
 
 **What's an impressionable experience you've had with customer service/support, and why?**
-
-replace this with your answer
+While in isolation, I have lost acces to my account and could no loger make purches and  
 
 **Tell us about a time where you helped someone.**
 
-replace this with your answer
+A time I helped someone?! well I help people all day. I was on a call with customer once he needed help with his 
 
 **What appeals to you about GitHub, as a company you'd potentially be working for?**
 
-replace this with your answer
+I strongly believe in collaboration, seeing the position of tehcnical support with your company I knew I had to apply. I saw the teamwork, the dynamic growth of the company over time has led me to believe that the team is definitly doing something right.I love working with a great team to achieve a common goal, and I know my background in technical support has prepared me for this role. 
+I look forward to becoming a valued teamplayer on this fantastic team.
 
 **How would you describe what GitHub does to a non-technical person?**
 
-replace this with your answer
+Github is an application that helps not just programmers but other end users store files and and track those changes while collaborating on it.
 
 **What motivates you to work in support?**
 
-replace this with your answer
+Problem solving has its thrills, Its never boring. It is the major reasons why I choose this path. Problem solving is enough motivation
 
-Thanks for taking the time and effort to tell us more about yourself. We look forward to
-reading your responses.
+Thanks for taking the time and effort to tell us more about yourself. We look forward to reading your responses.
+
 # Final step
 Make sure you save this file. And that your editor is saving it using the UTF-8 character
 encoding. Go back to the email you received from us, and upload this file to the unique link
