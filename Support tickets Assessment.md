@@ -64,13 +64,13 @@ Hint: One common option is Git remotes. There are others!
 
 Hello Vmg,
 
-Since you use github for collaboration and your internal Git server for deployment.
+Since you use Github for collaboration and your internal Git server for deployment.
 
 I would suggest you add the repo by using the `$ git remote` like `$ git remote add internal URL`
 
-we can manully push these different repo.
+we can manually push these different repositories.
 
-For more information see [Article](https://help.github.com/en/github/using-git/adding-a-remote)
+For more information see the [Article](https://help.github.com/en/github/using-git/adding-a-remote)
 
 Regards,
 
