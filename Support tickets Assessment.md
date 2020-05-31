@@ -123,7 +123,7 @@ Github is an application that helps not just programmers but other end users sto
 
 I am passionate about many things, but one key factor for me is problem-solving. It helps me think, research, communicate, and follow recent trends in technology. This for me is the beginning of an interesting story.
 
-What I really find thrilling is the fact that at the end of the day I can effectively and efficiently make an impact. I really think that it is problem-solving skills that made me find my way to being a support professional.
+What I find thrilling is the fact that at the end of the day I can effectively and efficiently make an impact. I really think that it is problem-solving skills that made me find my way to being a support professional.
 
 
 Thanks for taking the time and effort to tell us more about yourself. We look forward to reading your responses.
