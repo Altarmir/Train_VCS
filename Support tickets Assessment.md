@@ -93,7 +93,8 @@ You've checked the account in our admin view, he only has one personal repositor
 on help.github.com.
 
 **Ticket #3 response:**
- Hello Jamestk,
+ 
+Hello Jamestk,
 
 By adding a collaborator on a private repository, the owner grants the collaborator write access to these repositories.
 Collaborators can't have read-only access to personal repositories.
