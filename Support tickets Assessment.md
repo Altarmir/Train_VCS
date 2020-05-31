@@ -104,16 +104,19 @@ Xavier Ihee
 Lagos State, Nigeria
 
 **What's an impressionable experience you've had with customer service/support, and why?**
-While in isolation, I have lost acces to my account and could no loger make purches and  
+
+As a student who had a day left to make payment of tuition fee for me to partake in my final exams. I had issue with my debit card and couldn’t make the payment online. I visited the bank and on getting there the network was down and all transactions were left pending which left me extremely helpless as it was just about an hour left for the bank to close for the day. I had approached one of the customer service representatives and explained my ordeal to her. She really felt sad about the situation and reached out to her superiors who in turned communicated this with the branch manager. A call was made to other branch with high priority to run some checks on my bank account to see if I had the said amount of money and the total sum was cashed out for me pending the network glitch was sorted. With this I was able to make payment of my tuition fee same day and partake in my final exams.
 
 **Tell us about a time where you helped someone.**
 
-A time I helped someone?! well I help people all day. I was on a call with customer once he needed help with his 
+As a support engineer the bulk part of my job is to render assistant to customers who need them. I have rendered help to an average of 1000 end users in less than 6 months on the job. I had once helped an extremely irate customer who couldn’t access her emails for about a week because she didn’t have her domain set up properly. I had to apologize, pacify and gave my word that her issue will be resolved in the earliest time possible with her collaboration. I asked her necessary questions which helped us diagnose what the issue was, and I then directed her on the necessary steps to take via a screen sharing session which helped us resolve the issue and she got her emails coming through. She was very pleased with the support provided as she could now has access to all her emails; she was so pleased she offered to buy me some ice cream.
 
 **What appeals to you about GitHub, as a company you'd potentially be working for?**
 
-I strongly believe in collaboration, seeing the position of tehcnical support with your company I knew I had to apply. I saw the teamwork, the dynamic growth of the company over time has led me to believe that the team is definitly doing something right.I love working with a great team to achieve a common goal, and I know my background in technical support has prepared me for this role. 
-I look forward to becoming a valued teamplayer on this fantastic team.
+I strongly believe in collaboration, and GitHub is a platform where people work together, share ideas, and learn from each other to achieve amazing things. 
+Working with people has been part of my daily life and what faster way to achieve this than with the aid of a collaboration tool/ platform?  
+GitHub is a typical example of what makes teams achieve goals by sheer collaboration through seamlessly merging individual tasks.
+
 
 **How would you describe what GitHub does to a non-technical person?**
 
