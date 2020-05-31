@@ -42,8 +42,7 @@ Check out your local master branch.
 
 Merge the changes from upstream/master into your local master branch. 
 `$ git merge upstream/master`
-For more information see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
-/ "Title").
+For more information see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
 
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
