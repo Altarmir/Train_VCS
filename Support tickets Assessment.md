@@ -47,7 +47,9 @@ Kindly see [Article](https://help.github.com/en/github/collaborating-with-issues
 
 Also see documentation on [Branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) here.
 
-Regards, Xavier.
+Regards, 
+
+Xavier.
 
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
@@ -70,7 +72,7 @@ we can manully push these different repo.
 
 For more information see [Article](https://help.github.com/en/github/using-git/adding-a-remote)
 
-regards,
+Regards,
 
 Xavier
 
@@ -98,7 +100,7 @@ Collaborators can't have read-only access to personal repos.
 
 See[Article](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
 
-regards,
+Regards,
 
 Xavier
 
@@ -116,7 +118,8 @@ Lagos State, Nigeria
 
 **What's an impressionable experience you've had with customer service/support, and why?**
 
-As a student who had a day left to make payment of tuition fee for me to partake in my final exams. I had issue with my debit card and couldn’t make the payment online. I visited the bank and on getting there the network was down and all transactions were left pending which left me extremely helpless as it was just about an hour left for the bank to close for the day. I had approached one of the customer service representatives and explained my ordeal to her. She really felt sad about the situation and reached out to her superiors who in turned communicated this with the branch manager. A call was made to other branch with high priority to run some checks on my bank account to see if I had the said amount of money and the total sum was cashed out for me pending the network glitch was sorted. With this I was able to make payment of my tuition fee same day and partake in my final exams.
+As a student who had a day left to make payment of tuition fee for me to partake in my final exams. I had issue with my debit card and couldn’t make the payment online. I visited the bank and on getting there the network was down and all transactions were left pending which left me extremely helpless as it was just about an hour left for the bank to close for the day. I had approached one of the customer service representatives and explained my ordeal to her. She really felt sad about the situation and reached out to her superiors who in turned communicated this with the branch manager. A call was made to other branch with high priority to run some checks on my bank account to see if I had the said amount of money and the total sum was cashed out for me pending the network glitch was sorted. 
+With this I was able to make payment of my tuition fee same day and partake in my final exams.The customer service representative went above and beyond her designation to help a helpless student in need. 
 
 **Tell us about a time where you helped someone.**
 
