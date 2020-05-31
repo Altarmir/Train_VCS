@@ -42,7 +42,10 @@ Check out your local master branch.
 
 Merge the changes from upstream/master into your local master branch. 
 `$ git merge upstream/master`
-For more information see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
+
+Kindly see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
+
+Also see documentation on [Branch] (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) here.
 
 Regards, Xavier.
 
@@ -67,6 +70,10 @@ we can manully push these different repo.
 
 For more information see [Article](https://help.github.com/en/github/using-git/adding-a-remote)
 
+regards,
+
+Xavier
+
 # Ticket #3: Unhappy about forking
 
 JamesTK here, I have another question.
@@ -90,6 +97,10 @@ By adding a collaborator on a private repository, owner grant the collaboratr wr
 Collaborators can't have read-only access to personal repos.
 
 See[Article](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
+
+regards,
+
+Xavier
 
 # Love to know more about yourself
 We'd also love if you could share more about yourself so the team can get to know you
