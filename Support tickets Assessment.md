@@ -38,7 +38,7 @@ Once satisfied with your work, you can then merge the branch back to the master.
 
 
 To get your master branch in sync git you need to:
-'git fetch origin'
+"git fetch origin"
 'git reset --hard origin/master'
 'git clean -f -d'
 
