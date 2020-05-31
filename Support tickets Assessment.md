@@ -118,12 +118,13 @@ Lagos State, Nigeria
 
 **What's an impressionable experience you've had with customer service/support, and why?**
 
-As a student who had a day left to make payment of tuition fee for me to partake in my final exams. I had issue with my debit card and couldn’t make the payment online. I visited the bank and on getting there the network was down and all transactions were left pending which left me extremely helpless as it was just about an hour left for the bank to close for the day. I had approached one of the customer service representatives and explained my ordeal to her. She really felt sad about the situation and reached out to her superiors who in turned communicated this with the branch manager. A call was made to other branch with high priority to run some checks on my bank account to see if I had the said amount of money and the total sum was cashed out for me pending the network glitch was sorted. 
-With this I was able to make payment of my tuition fee same day and partake in my final exams.The customer service representative went above and beyond her designation to help a helpless student in need. 
+As a student who had a day left to make payment of tuition fees for me to partake in my final exams. I had an issue with my debit card and couldn’t make the payment online. I visited the bank and on getting there the network was down and all transactions were left pending which left me extremely helpless as it was just about an hour left for the bank to close for the day. I had approached one of the customer service representatives and explained my ordeal to her. She felt sad about the situation and reached out to her superiors who in turn communicated this with the branch manager. A call was made to another branch with high priority to run some checks on my bank account to see if I had the said amount of money and the total sum was cashed out for me pending the network glitch was sorted. 
+
+With this, I was able to make payment of my tuition fee the same day and partake in my final exams. The customer service representative went above and beyond her designation to help a helpless student in need
 
 **Tell us about a time where you helped someone.**
 
-As a support engineer the bulk part of my job is to render assistant to customers who need them. I have rendered help to an average of 1000 end users in less than 6 months on the job. I had once helped an extremely irate customer who couldn’t access her emails for about a week because she didn’t have her domain set up properly. I had to apologize, pacify and gave my word that her issue will be resolved in the earliest time possible with her collaboration. I asked her necessary questions which helped us diagnose what the issue was, and I then directed her on the necessary steps to take via a screen sharing session which helped us resolve the issue and she got her emails coming through. She was very pleased with the support provided as she could now has access to all her emails; she was so pleased she offered to buy me some ice cream.
+As a support engineer, the bulk part of my job is to render assistant to customers who need them. I have rendered help to an average of 1000 end users in less than 6 months on the job. I had once helped an extremely irate customer who couldn’t access her emails for about a week because she didn’t have her domain set up properly. I had to apologize, pacify, and gave my word that her issue will be resolved at the earliest time possible with her collaboration. I asked her necessary questions which helped us diagnose what the issue was, and I then directed her on the necessary steps to take via a screen sharing session which helped us resolve the issue and her emails were coming through. She was very pleased with the support provided as she now had access to all her emails. She apologized for being irate initially the issue had her frustrated and offered to buy me some ice cream.
 
 **What appeals to you about GitHub, as a company you'd potentially be working for?**
 
@@ -140,7 +141,7 @@ Github is an online repository that allows effective collaboration and file mana
 
 I am passionate about many things, but one key factor for me is problem-solving. It helps me think, research, communicate, and follow recent trends in technology. This for me is the beginning of an interesting story.
 
-What I find thrilling is the fact that at the end of the day I can effectively and efficiently make an impact. I really think that it is problem-solving skills that made me find my way to being a support professional.
+What I find thrilling is the fact that at the end of the day I can effectively and efficiently make an impact. I think that it is problem-solving skills that made me find my way to being a support professional.
 
 
 Thanks for taking the time and effort to tell us more about yourself. We look forward to reading your responses.
