@@ -38,9 +38,10 @@ Once satisfied with your work, you can then merge the branch back to the master.
 
 
 To get your master branch in sync git you need to:
-"git fetch origin"
-'git reset --hard origin/master'
-'git clean -f -d'
+`
+git fetch origin
+git reset --hard origin/master'
+git clean -f -d`
 
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
