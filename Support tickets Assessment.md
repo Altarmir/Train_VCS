@@ -117,7 +117,7 @@ I look forward to becoming a valued teamplayer on this fantastic team.
 
 **How would you describe what GitHub does to a non-technical person?**
 
-Github is an application that helps not just programmers but other end users store files and and track those changes while collaborating on it.
+Github is an online repository that allows effective collaboration and file management which makes it easy to track, store, and modify files.
 
 **What motivates you to work in support?**
 
