@@ -95,10 +95,10 @@ on help.github.com.
 **Ticket #3 response:**
  Hello Jamestk,
 
-By adding a collaborator on a private repository, owner grant the collaboratr write access to these repos.
-Collaborators can't have read-only access to personal repos.
+By adding a collaborator on a private repository, the owner grants the collaborator write access to these repositories.
+Collaborators can't have read-only access to personal repositories.
 
-See[Article](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
+See the [Article](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository#collaborator-access-on-a-repository-owned-by-a-user-account)
 
 Regards,
 
