@@ -43,9 +43,9 @@ Check out your local master branch.
 Merge the changes from upstream/master into your local master branch. 
 `$ git merge upstream/master`
 
-Kindly see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
+Kindly see the [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
 
-Also see documentation on [Branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) here.
+Also, see documentation on [Branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) here.
 
 Regards, 
 
