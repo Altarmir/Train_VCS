@@ -32,35 +32,18 @@ branches as a better workflow.
 Hello /.Steve,
 
 I hope we will see you at our next year's celebration?
- 
-Here's some suggestion to prevent your master branch from going out of sync you might want to consider branches. 
-A branch can easily be created using the command git `checkout -b branch_name`, save changes, and commits to that branch. 
-Once satisfied with your work, you can then merge the branch back to the master.
 
-
-To get your master branch in sync git you need to:
-Hello /.Steve,
-
-I hope we will see you at our next year's celebration?
- 
-Here's some suggestion to prevent your master branch from going out of sync you might want to consider branches. 
-A branch can easily be created using the command git checkout -b branch_name, save changes, and commits to that branch. 
-Once satisfied with your work, you can then merge the branch back to the master.
-
-
-To get your master branch in sync git you need to:
-Fetch the branches and their respective commits from the upstream repository. 
-Commits to master will be stored in a local branch, upstream/master.
+To resolve this;
+fetch all commits from upstream repository
 `$ git fetch upstream`
 
-Check out your fork's local master branch.
+Check out your local master branch.
 `$ git checkout master`
 
-Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
+Merge the changes from upstream/master into your local master branch. 
 `$ git merge upstream/master`
-
-If your local branch didn't have any unique commits, Git will instead perform a "fast-forward":
-$ git merge upstream/master
+For more information see [Article](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+/ "Title").
 
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
