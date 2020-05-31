@@ -23,6 +23,7 @@ my master branch is out of sync with his master. What can I do to fix this?
 Help me supportocat, you're my only hope!
 
 /.Steve
+
 Hint: You'll want to address their question, and you could add an explanation of topic
 branches as a better workflow.
 
@@ -38,9 +39,28 @@ Once satisfied with your work, you can then merge the branch back to the master.
 
 
 To get your master branch in sync git you need to:
-`git fetch origin`
-`git reset --hard origin/master`
-`git clean -f -d`
+Hello /.Steve,
+
+I hope we will see you at our next year's celebration?
+ 
+Here's some suggestion to prevent your master branch from going out of sync you might want to consider branches. 
+A branch can easily be created using the command git checkout -b branch_name, save changes, and commits to that branch. 
+Once satisfied with your work, you can then merge the branch back to the master.
+
+
+To get your master branch in sync git you need to:
+Fetch the branches and their respective commits from the upstream repository. 
+Commits to master will be stored in a local branch, upstream/master.
+`$ git fetch upstream`
+
+Check out your fork's local master branch.
+`$ git checkout master`
+
+Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
+`$ git merge upstream/master`
+
+If your local branch didn't have any unique commits, Git will instead perform a "fast-forward":
+$ git merge upstream/master
 
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
