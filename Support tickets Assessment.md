@@ -28,7 +28,19 @@ branches as a better workflow.
 
 **Ticket #1 response:** 
 
-SS replace this with your response
+Hello /.Steve,
+
+I hope we will see you at our next year's celebration?
+ 
+Here's some suggestion to prevent your master branch from going out of sync you might want to consider branches. 
+A branch can easily be created using the command git 'checkout -b branch_name', save changes, and commits to that branch. 
+Once satisfied with your work, you can then merge the branch back to the master.
+
+
+To get your master branch in sync git you need to:
+'git fetch origin'
+'git reset --hard origin/master'
+'git clean -f -d'
 
 # Ticket #2: Syncing internal server and GitHub?
 Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
